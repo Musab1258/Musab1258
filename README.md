@@ -1,4 +1,5 @@
 ### Hi there friends 👋
+I am a **frontend developer** that focuses on frontend frameworks such as **Angular**, **Jquery** and **bootstrap**. I am passionate about building accessible websites.
 
 <!--
 **Musab1258/Musab1258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
