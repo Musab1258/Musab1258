@@ -5,7 +5,7 @@ I am a **frontend developer** that focuses on frontend frameworks such as **Angu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab1258&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Musab1258&theme=radical" />
 
 
 ---
