@@ -1,5 +1,5 @@
 ### Hi there friends 👋
-I am a **frontend developer** with a focus on such as **React**. I am passionate about building accessible websites.
+I am a **frontend developer** focusing on **React**. I am passionate about building accessible websites.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musab1258&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
