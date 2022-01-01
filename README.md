@@ -1,6 +1,18 @@
 ### Hi there friends 👋
 I am a **frontend developer** focusing on **React**. I am passionate about building accessible websites.
 
+Here the technologies I'm conversant with:
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=SASS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GatsbyJs-informational?style=flat&logo=GatsbyJs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musab1258&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab1258&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
