@@ -1,6 +1,8 @@
 ### Hi there friends 👋
 I am a **frontend developer** focusing on **React**. I am passionate about building accessible websites.
 
+![](https://komarev.com/ghpvc/?username=Musab1258&color=red)
+
 Here are the technologies I'm conversant with:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
