@@ -6,13 +6,11 @@ I’m a software engineer and technical writer, passionate about solving problem
 
 Here are the technologies I'm conversant with:
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=SASS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GatsbyJs-informational?style=flat&logo=GatsbyJs&logoColor=white&color=4AB197)
@@ -29,21 +27,6 @@ Here are the technologies I'm conversant with:
 
 
 ---
-
-<!--
-### :zap: Recent Activity
--->
-
-<!--START_SECTION:activity-->
-<!--
-1. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
-2. 💪 Opened PR [#3019](https://github.com/webpack/webpack-cli/pull/3019) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#1605](https://github.com/nuxt/framework/pull/1605) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
-5. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
--->
-<!--END_SECTION:activity-->
-
 
 ---
 
