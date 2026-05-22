@@ -18,10 +18,15 @@ Here are the technologies I'm conversant with:
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
 
+![Stats](./profile/stats.svg)
+
+<!--
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-jet-31.vercel.app/api?username=Musab1258&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-one-jet-31.vercel.app/api/top-langs/?username=Musab1258&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musab1258&theme=radical" />
 
